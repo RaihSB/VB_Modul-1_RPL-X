@@ -1,0 +1,11 @@
+D:\WIKRAMA NGODING\New folder\modul1\5\5\bin\Debug\5.exe.config
+D:\WIKRAMA NGODING\New folder\modul1\5\5\bin\Debug\5.exe
+D:\WIKRAMA NGODING\New folder\modul1\5\5\bin\Debug\5.pdb
+D:\WIKRAMA NGODING\New folder\modul1\5\5\bin\Debug\5.xml
+D:\WIKRAMA NGODING\New folder\modul1\5\5\obj\Debug\_5.Form1.resources
+D:\WIKRAMA NGODING\New folder\modul1\5\5\obj\Debug\_5.Resources.resources
+D:\WIKRAMA NGODING\New folder\modul1\5\5\obj\Debug\5.vbproj.GenerateResource.Cache
+D:\WIKRAMA NGODING\New folder\modul1\5\5\obj\Debug\5.vbproj.CoreCompileInputs.cache
+D:\WIKRAMA NGODING\New folder\modul1\5\5\obj\Debug\5.exe
+D:\WIKRAMA NGODING\New folder\modul1\5\5\obj\Debug\5.xml
+D:\WIKRAMA NGODING\New folder\modul1\5\5\obj\Debug\5.pdb

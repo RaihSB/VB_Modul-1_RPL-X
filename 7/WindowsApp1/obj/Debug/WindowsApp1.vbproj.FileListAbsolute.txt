@@ -1,0 +1,12 @@
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\WIKRAMA NGODING\New folder\modul1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,12 @@
+D:\WIKRAMA NGODING\New folder\modul1\10\10\bin\Debug\10.exe.config
+D:\WIKRAMA NGODING\New folder\modul1\10\10\bin\Debug\10.exe
+D:\WIKRAMA NGODING\New folder\modul1\10\10\bin\Debug\10.pdb
+D:\WIKRAMA NGODING\New folder\modul1\10\10\bin\Debug\10.xml
+D:\WIKRAMA NGODING\New folder\modul1\10\10\obj\Debug\10.vbprojResolveAssemblyReference.cache
+D:\WIKRAMA NGODING\New folder\modul1\10\10\obj\Debug\_10.Form1.resources
+D:\WIKRAMA NGODING\New folder\modul1\10\10\obj\Debug\_10.Resources.resources
+D:\WIKRAMA NGODING\New folder\modul1\10\10\obj\Debug\10.vbproj.GenerateResource.Cache
+D:\WIKRAMA NGODING\New folder\modul1\10\10\obj\Debug\10.vbproj.CoreCompileInputs.cache
+D:\WIKRAMA NGODING\New folder\modul1\10\10\obj\Debug\10.exe
+D:\WIKRAMA NGODING\New folder\modul1\10\10\obj\Debug\10.xml
+D:\WIKRAMA NGODING\New folder\modul1\10\10\obj\Debug\10.pdb
